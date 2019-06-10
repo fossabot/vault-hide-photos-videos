@@ -1,4 +1,6 @@
 # vaulty-hide-photos-videos
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fiproxy%2Fvault-hide-photos-videos.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fiproxy%2Fvault-hide-photos-videos?ref=badge_shield)
+
 Recover the data stored inside the .vdata file from the Android Vaulty application without a password.
 
 # What is Vaulty?
@@ -30,3 +32,7 @@ Download: Hex Editor > [HxD](https://mh-nexus.de/en/hxd/)
 
 
   
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fiproxy%2Fvault-hide-photos-videos.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fiproxy%2Fvault-hide-photos-videos?ref=badge_large)
